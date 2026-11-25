@@ -1,0 +1,28 @@
+
+{
+  "POR001": {
+    "cash_balance": 10000,
+    "restricted_securities": ["XYZCORP"],
+    "max_position_pct": 0.30
+  },
+  "POR002": {
+    "cash_balance": 20000,
+    "restricted_securities": [],
+    "max_position_pct": 0.40
+  },
+  "POR003": {
+    "cash_balance": 50000,
+    "restricted_securities": ["BADCO"],
+    "max_position_pct": 0.35
+  },
+  "POR004": {
+    "cash_balance": 100000,
+    "restricted_securities": [],
+    "max_position_pct": 0.25
+  },
+  "POR005": {
+    "cash_balance": 5000,
+    "restricted_securities": [],
+    "max_position_pct": 0.30
+  }
+}
